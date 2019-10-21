@@ -88,7 +88,7 @@ python-apt==0.9.3.5
 python-dateutil==1.5
 python-debian==0.1.21-nmu2ubuntu2
 pytz==2012c
-pyxdg==0.25
+pyxdg==0.26
 pyzmq==14.0.1
 regex==2014.02.16
 reportlab==3.0
