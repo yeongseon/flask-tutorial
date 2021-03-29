@@ -10,7 +10,7 @@ Pillow==2.3.0
 PsychoPy==1.79.01
 PyOpenGL==3.0.2
 PyWavelets==0.2.2
-Pygments==1.6
+Pygments==2.7.4
 SQLAlchemy==0.8.4
 SecretStorage==2.0.0
 Sphinx==1.2.2
