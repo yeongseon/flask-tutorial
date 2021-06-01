@@ -115,7 +115,7 @@ uWSGI==2.0.9
 unity-lens-photos==1.0
 unity-singlet==0.2.2
 unsettings==0.09
-urllib3==1.7.1
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==1.11.6
 wsgiref==0.1.2
