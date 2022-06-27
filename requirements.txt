@@ -91,7 +91,7 @@ pytz==2012c
 pyxdg==0.25
 pyzmq==14.0.1
 regex==2014.02.16
-reportlab==3.0
+reportlab==3.5.55
 requests==2.2.1
 roman==2.0.0
 rope==0.9.2
